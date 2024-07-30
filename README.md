@@ -35,5 +35,5 @@ Neste projeto,pude colocar em prática meus conhecimentos de CSS. Nele também p
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/acordeon-simples-JS/)
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Acordeon-simples-JS/)
 
